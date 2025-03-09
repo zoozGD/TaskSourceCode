@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "567846780833",
+    "firebase_url": "https://groupmanagementsystem-363fb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "groupmanagementsystem-363fb",
+    "storage_bucket": "groupmanagementsystem-363fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567846780833:android:b04273c284be69554215e0",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Adeeb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeOt-O-HugC0Kph5P37EMiJoVO2kYiLXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
